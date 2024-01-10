@@ -1,9 +1,11 @@
 # bittensor-subnet27-startup
 
+```bash
 git clone https://github.com/Metroxynth/bittensor-subnet27-startup
 cd bittensor-subnet27-startup
-sh or bash startup.sh
+sh startup.sh
+```
 
 And follow the required steps.
 
-KP
+# KP
