@@ -26,6 +26,9 @@ make
 make install  # prefixed by sudo if not in the sudoers
 hashcat --version
 
+# Install the legacy kernel module flavor
+sudo apt-get install -y cuda-drivers
+
 # Allow specific ports through ufw
 sudo apt update
 sudo apt install ufw -y
